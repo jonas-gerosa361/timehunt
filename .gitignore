@@ -69,7 +69,7 @@ Thumbs.db
 *.tgz
 
 # If you want to ignore large binary files not meant for git
-*.mp4
-*.mov
-*.wav
-*.psd
+# *.mp4
+# *.mov
+# *.wav
+# *.psd
